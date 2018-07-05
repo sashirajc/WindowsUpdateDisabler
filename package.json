@@ -1,0 +1,24 @@
+{
+  "name": "windowsupdatedisabler",
+  "version": "1.0.0",
+  "description": "Disable Windows updater",
+  "main": "WindowsUpdateBlocker.js",
+  "dependencies": {
+    "node-cmd": "^3.0.0",
+    "node-windows": "^0.1.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashirajc/WindowsUpdateDisabler.git"
+  },
+  "author": "Sashiraj Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashirajc/WindowsUpdateDisabler/issues"
+  },
+  "homepage": "https://github.com/sashirajc/WindowsUpdateDisabler#readme"
+}
